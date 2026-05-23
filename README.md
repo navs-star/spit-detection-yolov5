@@ -1,4 +1,4 @@
-# 🚫 Real-Time Spit Detection System — YOLOv5
+# Real-Time Spit Detection System — YOLOv5
 
 A computer vision project that detects spitting in real time using a laptop webcam and displays a "DO NOT SPIT" warning on screen.
 
